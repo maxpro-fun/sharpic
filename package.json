@@ -1,0 +1,19 @@
+{
+  "name": "sharpic",
+  "version": "0.0.1",
+  "description": "vscode extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxpro-fun/sharpic.git"
+  },
+  "author": "maxpro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxpro-fun/sharpic/issues"
+  },
+  "homepage": "https://github.com/maxpro-fun/sharpic#readme"
+}
